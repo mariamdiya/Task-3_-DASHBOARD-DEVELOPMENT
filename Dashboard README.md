@@ -55,3 +55,15 @@ This project focuses on analyzing airline flight delays using historical flight 
 - Interactive slicers (Airline, Month, Delay Status)
 
 ---
+
+## 🔍 Key Insights
+- Approximately one million flights experienced departure delays over 15 minutes.
+- Certain airlines consistently show higher average delays.
+- Delays increase during mid-year months, indicating seasonal congestion.
+- Late aircraft and carrier-related issues are major contributors to delays.
+- Evening flights tend to have higher delays due to delay propagation.
+
+---
+
+## 🧠 Conclusion
+The Airline Flight Delay Analysis Dashboard provides a comprehensive view of operational performance across airlines and time periods. By identifying delay trends and root causes, the dashboard enables stakeholders to focus on targeted improvements to enhance on-time performance and customer satisfaction.
